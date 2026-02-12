@@ -14,21 +14,21 @@ Methodology
       PnL volatility,
       Long ratio,
 
-2. Behavioral Clustering
-      Standardized features
-      Applied K-Means clustering
-      Identified three trader archetypes
+2. Behavioral Clustering:-
+      Standardized features,
+      Applied K-Means clustering,
+      Identified three trader archetypes,
 
-3. Regime Analysis
+3. Regime Analysis:-
    Merged sentiment regime (Fear vs Greed)  
    Compared:
-       Mean PnL
-       Volatility expansion
-       Regime sensitivity by cluster
+       Mean ,
+       Volatility expansion,
+       Regime sensitivity by cluster,
 
-4. Strategy Framework
-       Designed regime-aware allocation rules
-       Prioritized risk-adjusted stability over absolute returns
+4. Strategy Framework:-
+       Designed regime-aware allocation rules,
+       Prioritized risk-adjusted stability over absolute returns,
 
    
 Key Insights:-
