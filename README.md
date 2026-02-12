@@ -6,7 +6,7 @@ This project analyzes how market sentiment (Fear vs Greed) influences trader-lev
 We identify structural trader archetypes and design regime-aware capital allocation rules based on empirical findings.
 
 Methodology
-1. Data Processing
+1. Data Processing:-
    Aggregated trader-level metrics:
       Trade frequency,
       Average trade size,
