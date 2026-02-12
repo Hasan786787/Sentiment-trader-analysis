@@ -34,7 +34,7 @@ Methodology
 Key Insights:-
 
 Trader heterogeneity is driven primarily by frequency and position sizing.
-Directional bias does not differentiate trader types.
+Directional bias does not differentiate trader types. 
 Risk-adjusted efficiency declines with leverage intensity.
 Fear regimes reward disciplined traders.
 Greed regimes amplify volatility for high-exposure traders.
