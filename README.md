@@ -8,11 +8,11 @@ We identify structural trader archetypes and design regime-aware capital allocat
 Methodology
 1. Data Processing
    Aggregated trader-level metrics:
-      Trade frequency
-      Average trade size
-      Closed PnL
-      PnL volatility
-      Long ratio
+      Trade frequency,
+      Average trade size,
+      Closed PnL,
+      PnL volatility,
+      Long ratio,
 
 2. Behavioral Clustering
       Standardized features
